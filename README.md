@@ -1,5 +1,5 @@
 # iOS自动化单元测试之Xcode自带工具xcodebuild与xccov
-【博客地址】（https://www.jianshu.com/p/f88d5efbc98f）
+[博客地址](https://www.jianshu.com/p/f88d5efbc98f)
 
 为了提高ipa测试包的质量，准备在项目中集成自动化单元测试，关于Xcode的单元测试的自动化，做了一些研究，准备分几篇博客与大家分享一下。
 
