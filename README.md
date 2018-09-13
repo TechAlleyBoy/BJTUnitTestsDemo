@@ -1,5 +1,3 @@
-# BJTUnitTestsDemo
-Xcode的自动化测试
 # iOS自动化单元测试之Xcode自带工具xcodebuild与xccov
 
 为了提高ipa测试包的质量，准备在项目中集成自动化单元测试，关于Xcode的单元测试的自动化，做了一些研究，准备分几篇博客与大家分享一下。
@@ -166,6 +164,7 @@ $ xcrun xccov view --file /Users/bijietao/Desktop/Unittest/5/BJTUnitTestsDemo/BJ
 ```
 
 ## 四、总结
-#### 1、如果你的项目是多target，配置会有所不同
-#### 2、代码传送门[]
+#### 1、如果你的项目是多target，配置会有所不同，参考上文。
+#### 2、github上的demo [代码传送门](https://github.com/TechAlleyBoy/BJTUnitTestsDemo.git)。
+#### 3、准备工作完成，下篇博客准备写**【iOS自动化单元测试之fastlane中xcodebuild与xcov】**，一条命令，执行单元测试，输出测试报告，发送钉钉通知。
 
